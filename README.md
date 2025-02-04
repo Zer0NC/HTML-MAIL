@@ -66,5 +66,5 @@ To see how the email will look, open the file in any browser:
 This template is open-source and available under the MIT License.
 
 ## Author
-Created by [Your Name](https://ByZer0.de). Contributions are welcome!
+Created by [ByZer0](https://ByZer0.de). Contributions are welcome!
 
